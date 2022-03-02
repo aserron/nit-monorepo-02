@@ -1,0 +1,7 @@
+{
+  "permissions": {},
+  "lambdaLayers": [],
+  "secretNames": [
+    "GRAPHQL_API_KEY"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todoreact-dev-195057-authRole",
+      "UnauthRoleArn": "arn:aws:iam::530332774261:role/amplify-todoreact-dev-195057-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::530332774261:role/amplify-todoreact-dev-195057-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-todoreact-dev-195057-deployment",
+      "UnauthRoleName": "amplify-todoreact-dev-195057-unauthRole",
+      "StackName": "amplify-todoreact-dev-195057",
+      "StackId": "arn:aws:cloudformation:us-east-1:530332774261:stack/amplify-todoreact-dev-195057/12902df0-99b2-11ec-8ecd-1293075b36bf",
+      "AmplifyAppId": "dman7a12lidrp",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-todoreact-dev-195057-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "function": {
+        "todoreactee3d2687": {
+          "deploymentBucketName": "amplify-todoreact-dev-195057-deployment",
+          "s3Key": "amplify-builds/todoreactee3d2687-5a774f7a674558487353-build.zip"
+        }
+      },
+      "auth": {
+        "todoreact": {}
+      }
+    }
+  }
+}
